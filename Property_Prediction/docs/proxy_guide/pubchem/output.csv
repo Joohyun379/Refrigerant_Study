@@ -1,0 +1,4 @@
+﻿identifier,search_name,cid,MolecularFormula,MolecularWeight,CanonicalSMILES,IsomericSMILES,InChI,InChIKey,IUPACName,XLogP,HeavyAtomCount
+R-134a,"1,1,1,2-Tetrafluoroethane",13129,C2H2F4,102.03,,,"InChI=1S/C2H2F4/c3-1-2(4,5)6/h1H2",LVGUZGTVOIAKKC-UHFFFAOYSA-N,"1,1,1,2-tetrafluoroethane",1.7,6
+Acetone,acetone,180,C3H6O,58.08,,,InChI=1S/C3H6O/c1-3(2)4/h1-2H3,CSCPPACGZOOCGX-UHFFFAOYSA-N,propan-2-one,-0.1,4
+Benzene,benzene,241,C6H6,78.11,,,InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H,UHOVQNZJYSORNB-UHFFFAOYSA-N,benzene,2.1,6

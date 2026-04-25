@@ -1,0 +1,18 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 180,
+        "MolecularFormula": "C3H6O",
+        "MolecularWeight": "58.08",
+        "SMILES": "CC(=O)C",
+        "ConnectivitySMILES": "CC(=O)C",
+        "InChI": "InChI=1S/C3H6O/c1-3(2)4/h1-2H3",
+        "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+        "IUPACName": "propan-2-one",
+        "XLogP": -0.1,
+        "HeavyAtomCount": 4
+      }
+    ]
+  }
+}

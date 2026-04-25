@@ -1,0 +1,4 @@
+identifier,search_name,note
+Propane,propane,fluid.cgi 지원 (직접 API)
+Acetone,acetone,fluid.cgi 미지원 → Antoine fallback
+1-Propanol,1-propanol,fluid.cgi 미지원 → Antoine fallback

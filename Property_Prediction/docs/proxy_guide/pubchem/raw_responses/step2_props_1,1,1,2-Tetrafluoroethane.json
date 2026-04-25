@@ -1,0 +1,18 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 13129,
+        "MolecularFormula": "C2H2F4",
+        "MolecularWeight": "102.03",
+        "SMILES": "C(C(F)(F)F)F",
+        "ConnectivitySMILES": "C(C(F)(F)F)F",
+        "InChI": "InChI=1S/C2H2F4/c3-1-2(4,5)6/h1H2",
+        "InChIKey": "LVGUZGTVOIAKKC-UHFFFAOYSA-N",
+        "IUPACName": "1,1,1,2-tetrafluoroethane",
+        "XLogP": 1.7,
+        "HeavyAtomCount": 6
+      }
+    ]
+  }
+}
