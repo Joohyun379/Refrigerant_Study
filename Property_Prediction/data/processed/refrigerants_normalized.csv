@@ -1,0 +1,18 @@
+﻿identifier,cid,CID,MolecularFormula,MolecularWeight,SMILES,ConnectivitySMILES,InChI,InChIKey,IUPACName,XLogP,HeavyAtomCount,critical_temperature,critical_temperature_unit,critical_pressure,critical_pressure_unit,acentric_factor,acentric_factor_unit,boiling_point,boiling_point_unit,melting_point,melting_point_unit,error,Tc_K,Pc_MPa,omega,valid,validation_notes
+R-134a,13129.0,13129.0,C2H2F4,102.03,C(C(F)(F)F)F,C(C(F)(F)F)F,"InChI=1S/C2H2F4/c3-1-2(4,5)6/h1H2",LVGUZGTVOIAKKC-UHFFFAOYSA-N,"1,1,1,2-tetrafluoroethane",1.7,6.0,,,,,,,-26.5,atm,-103.296,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-32,6345.0,6345.0,CH2F2,52.023,C(F)F,C(F)F,InChI=1S/CH2F2/c2-1-3/h1H2,RWRIWBAIICGTTQ-UHFFFAOYSA-N,difluoromethane,1.0,3.0,,,,,,,-51.65,,-136.8,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-125,9633.0,9633.0,C2HF5,120.02,C(C(F)(F)F)(F)F,C(C(F)(F)F)(F)F,"InChI=1S/C2HF5/c3-1(4)2(5,6)7/h1H",GTLACDSXYULKMZ-UHFFFAOYSA-N,"1,1,1,2,2-pentafluoroethane",2.2,7.0,,,,,,,-48.1,,-100.6,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-143a,,,,,,,,,,,,,,,,,,,,,,CID not found,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing; MolecularWeight=missing
+R-152a,6368.0,6368.0,C2H4F2,66.05,CC(F)F,CC(F)F,"InChI=1S/C2H4F2/c1-2(3)4/h2H,1H3",NPNPZTNLOVBDOC-UHFFFAOYSA-N,"1,1-difluoroethane",1.4,4.0,,,,,,,52.3,,-179.0,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-227ea,,,,,,,,,,,,,,,,,,,,,,CID not found,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing; MolecularWeight=missing
+R-236fa,,,,,,,,,,,,,,,,,,,,,,CID not found,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing; MolecularWeight=missing
+R-245fa,,,,,,,,,,,,,,,,,,,,,,CID not found,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing; MolecularWeight=missing
+R-22,6372.0,6372.0,CHClF2,86.47,C(F)(F)Cl,C(F)(F)Cl,InChI=1S/CHClF2/c2-1(3)4/h1H,VOPWNXZWBYDODV-UHFFFAOYSA-N,chloro(difluoro)methane,1.8,4.0,,,,,,,-40.9,,-231.0,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-290,,,,,,,,,,,,,,,,,,,,,,CID not found,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing; MolecularWeight=missing
+R-600a,6360.0,6360.0,C4H10,58.12,CC(C)C,CC(C)C,"InChI=1S/C4H10/c1-4(2)3/h4H,1-3H3",NNPPMTNAJDCUHE-UHFFFAOYSA-N,2-methylpropane,2.1,4.0,,,,,,,10.8,,-255.0,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-717,222.0,222.0,H3N,17.031,N,N,InChI=1S/H3N/h1H3,QGZKDVFQNNGYKY-UHFFFAOYSA-N,azane,-0.7,1.0,,,,,,,-28.03,,-107.9,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-744,280.0,280.0,CO2,44.009,C(=O)=O,C(=O)=O,InChI=1S/CO2/c2-1-3,CURLTUGMZLYLDI-UHFFFAOYSA-N,carbon dioxide,0.9,3.0,,,,,,,2024.0,,-109.3,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-718,962.0,962.0,H2O,18.015,O,O,InChI=1S/H2O/h1H2,XLYOFNOQVPJJNP-UHFFFAOYSA-N,oxidane,-0.5,1.0,,,,,,,212.0,,32.0,,,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing
+R-1234yf,,,,,,,,,,,,,,,,,,,,,,CID not found,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing; MolecularWeight=missing
+R-1234ze,,,,,,,,,,,,,,,,,,,,,,CID not found,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing; MolecularWeight=missing
+R-1336mzz,,,,,,,,,,,,,,,,,,,,,,CID not found,,,,False,Tc_K=missing; Pc_MPa=missing; omega=missing; MolecularWeight=missing
