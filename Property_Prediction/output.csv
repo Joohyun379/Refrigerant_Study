@@ -1,0 +1,4 @@
+﻿identifier,nist_id,Tc_K,Pc_MPa,T_ref_K,Psat_MPa,omega,omega_method,Antoine_A,Antoine_B,Antoine_C
+Propane,C74986,369.9,4.25,258.93,0.007085,1.778031,fluid_api,,,
+Acetone,C67641,508.0,4.8,355.6,0.231061,0.317515,Antoine,4.42448,1312.253,-32.445
+1-Propanol,C71238,536.9,5.2,375.83,0.124445,0.621024,Antoine,4.87601,1441.629,-74.299
