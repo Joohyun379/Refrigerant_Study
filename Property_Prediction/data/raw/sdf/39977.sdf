@@ -1,0 +1,175 @@
+39977
+  -OEChem-03302609522D
+
+ 31 32  0     1  0  0  0  0  0999 V2000
+    4.9058   -1.1275    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7321    1.8573    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2081   -1.5824    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1160   -1.5491    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4410   -1.6601    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    2.2234    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0397    2.3421    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1160    2.2637    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4410    2.3747    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.1427    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000   -1.0087    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.8573    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000    1.7234    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5321   -0.1673    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0287   -1.0314    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5321    0.8820    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0287    1.7461    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.3747    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -2.3747    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3812   -1.6824    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7321   -0.1427    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.7321    0.8573    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.8660   -0.6427    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.6260   -0.6773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    1.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6260    1.3920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -0.1427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.8573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5321   -0.1635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5321    0.8781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -1.5087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 31  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 25  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 23 31  1  0  0  0  0
+ 24 29  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 26 30  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+39977
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+789
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+20
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBwAcAAAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAADAAAAACQAAAAAADAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAgMAOgAAAAAAAAAAAAAQAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8,8a-heptadecafluoro-8-(trifluoromethyl)decalin
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8,8a-heptadecafluoro-8-(trifluoromethyl)naphthalene
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2,3,3,4,4,4<I>a</I>,5,5,6,6,7,7,8,8<I>a</I>-heptadecafluoro-8-(trifluoromethyl)naphthalene
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8,8a-heptadecafluoro-8-(trifluoromethyl)naphthalene
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8,8a-heptadecakis(fluoranyl)-8-(trifluoromethyl)naphthalene
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4,4a,5,5,6,6,7,7,8,8a-heptadecafluoro-8-(trifluoromethyl)decalin
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11F20/c12-1-2(13,6(19,20)10(27,28)9(25,26)4(1,15)16)5(17,18)8(23,24)7(21,22)3(1,14)11(29,30)31
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LWRNQOBXRHWPGE-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+6.3
+
+> <PUBCHEM_EXACT_MASS>
+511.9680632
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11F20
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+512.08
+
+> <PUBCHEM_SMILES>
+C12(C(C(C(C(C1(C(F)(F)F)F)(F)F)(F)F)(F)F)(C(C(C(C2(F)F)(F)F)(F)F)(F)F)F)F
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C12(C(C(C(C(C1(C(F)(F)F)F)(F)F)(F)F)(F)F)(C(C(C(C2(F)F)(F)F)(F)F)(F)F)F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+0
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+511.9680632
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+31
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+3
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+21  1  3
+22  2  3
+23  3  3
+
+$$$$
